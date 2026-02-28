@@ -4,11 +4,6 @@ This just contains some (mostly OC) emojis that I’ve made for Discord servers.
 
 _Remember kids, GitHub is a perfectly cromulent image host!_
 
-
-
-
-
-
 # Thumbnails
 [![transween](/image_thumbnails/png_transween_thumb.png)](transween.png)
 [![systemd_black](/image_thumbnails/png_systemd_black_thumb.png)](systemd_black.png)
